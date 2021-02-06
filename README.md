@@ -1,1 +1,1 @@
-omikuji-practice
+DMM WEBCAMPの学習コンテンツ2章【Webアプリケーションを作ってみよう】の課題です。
